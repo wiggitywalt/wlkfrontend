@@ -1,0 +1,4 @@
+walter.kimbrough@gmail.com
+ZaahWN82oAMDJWvFxCK9XiRCby8paVLgUc4WFoDs
+
+https://api.nasa.gov/insight_weather/?api_key=ZaahWN82oAMDJWvFxCK9XiRCby8paVLgUc4WFoDs&feedtype=json&ver=1.0
